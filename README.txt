@@ -1,3 +1,10 @@
+
+
+This is a reupload of a school project. Testing this source code will not work unless a database key is added to 
+"ATZ_Healthcare-service/db/db.js".
+
+
+
 #Steven Hansen, Chris Toth, Reed McGarvey, Aaron Brvenik, Kosta Kaganis
     _  _____ _____  _   _            _ _   _                        
    / \|_   _|__  / | | | | ___  __ _| | |_| |__   ___ __ _ _ __ ___ 
