@@ -1,0 +1,21 @@
+{
+    "name": "atz_healthcare-service",
+    "version": "1.0.0",
+    "description": "Final project for IST 412",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongodb": "^3.5.4"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}

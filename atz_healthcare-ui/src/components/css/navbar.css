@@ -1,0 +1,33 @@
+.navinator{
+    z-index:1; /*keeps the navbar on top */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(218, 10, 10);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .navElement{
+    float:left;
+    height: inherit;
+  }
+  li a{
+    display: block;
+    color: white !important; 
+    text-align: center;
+    padding: 14px 16px; /*  down and over */
+    text-decoration: none !important;
+  }
+  li a:hover{
+    background-color: rgb(255, 23, 15) !important;
+  }
+  .active{
+    background-color: rgb(28, 13, 110) !important;
+  }
+  .active:hover{
+    background-color: rgb(32, 11, 156) !important;
+  }

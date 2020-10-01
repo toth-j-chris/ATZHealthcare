@@ -1,0 +1,21 @@
+.container {
+  padding: 52px 0px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  padding-left: 30px;
+  float: right;
+}
+.apptbox{
+  /* border-radius: 10%; */
+  background: red;
+}
+
+h3{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
